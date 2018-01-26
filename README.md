@@ -1,6 +1,6 @@
 Embedded Systems - Track following tank
 
-This project was done at Florida Atlantic University in the Intro to Embedded Systems class tau
+This project was done at Florida Atlantic University in the Intro to Embedded Systems class taught by Dr. Bassem Al-Halabi.
 
 Prerequisites
 With regards to software the only thing that will be needed is the Code Composer Studio IDE that I will explain how to install in the installing tab.
